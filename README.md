@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aksankit2005/AllLeetCode/tree/master/0055-jump-game) |
+| [1025-divisor-game](https://github.com/aksankit2005/AllLeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/aksankit2005/AllLeetCode/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aksankit2005/AllLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aksankit2005/AllLeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aksankit2005/AllLeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aksankit2005/AllLeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
