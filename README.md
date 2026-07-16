@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aksankit2005/AllLeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/aksankit2005/AllLeetCode/tree/master/0055-jump-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aksankit2005/AllLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aksankit2005/AllLeetCode/tree/master/1025-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/aksankit2005/AllLeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
